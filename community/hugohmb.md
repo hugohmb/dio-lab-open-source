@@ -21,3 +21,22 @@
   <a href = "hugo.hmb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugohmb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
+
+Desafio Concluído: Contribuindo para um Projeto Open Source!
+Concluí com sucesso o desafio "Contribuindo em um Projeto Open Source no GitHub", do bootcamp da Digital Innovation One. Este projeto foi uma excelente oportunidade para colocar em prática o conhecimento sobre colaboração em projetos de código aberto.
+
+<br>
+
+Para a entrega do desafio, fiz um fork do repositório oficial da DIO e, seguindo as instruções, criei meu próprio Profile README na pasta community. Essa contribuição foi uma forma de me apresentar à comunidade e consolidar os aprendizados sobre o fluxo de trabalho do GitHub, incluindo o uso de forks, commits e pull requests.
+
+<br>
+
+Abaixo, você encontra o link para o meu fork do repositório e para o pull request que abri:
+
+Link do Fork: https://github.com/HugoHMB/dio-lab-open-source
+
+Link do Pull Request: https://github.com/digitalinnovationone/dio-lab-open-source/pull/68427
+
+Agradeço à DIO pela oportunidade de aprofundar meus conhecimentos e contribuir para a comunidade!
